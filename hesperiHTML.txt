@@ -1,3 +1,21 @@
+Skip to content
+  Switch to mobile version
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @LadyNymph
+ Watch 1
+  Star 0
+ Fork 0 hesperi/xespera
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathxespera/index.html
+75c6228  a day ago
+@LadyNymph LadyNymph Rename HTML.nymph to index.html
+1 contributor
+RawBlameHistory    
+38 lines (27 sloc)  1.15 KB
 <!DOCTYPE html>
 
 <html>
@@ -35,3 +53,5 @@ shit.
 </body>
 
 </html>
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
