@@ -5,13 +5,13 @@
          <meta name="viewport" content="width=device-width, initial-scale=1" /> 
          <style>body {font-size: 16px; }</style>
          <p align=center>
-             <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t34.0-12/15086187_131938493951494_1327474833_n.jpg?oh=dea0d59c7751e5a9697b284e29d04985&oe=58415A98" alt="ir.hesperi.net" width="400" height="200"border="3px">
+             <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiyhrzp8YXRAhVGTCYKHV63CSsQjRwIBw&url=http%3A%2F%2Fwww.polyvore.com%2Ftribal_sun_amp_moon_tattoo%2Fthing%3Fid%3D70407721&psig=AFQjCNGFFZscey1MoapWxxYG6uzgn0c7Qg&ust=1482430424118084" alt="fuck, the image broke." width="400" height="200"border="3px">
          </p>
      </head>
      <body>
          <h3 align="center">WELCOME TO HTM-HELL!!!</h3>
          <P align="center">
-             im working on <a href="https://github.com/LadyNymph/hesperi"_blank>this</a> shit. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SamaelLilithGoatPentagram.png/220px-SamaelLilithGoatPentagram.png" alt="ir.hesperi.net" width="250" height="250px">
+             im working on <a href="https://github.com/LadyNymph/hesperi"_blank>this</a> shit.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SamaelLilithGoatPentagram.png/220px-SamaelLilithGoatPentagram.png" alt="ir.hesperi.net" width="250" height="250px">
          </p>
          <i>XIRUUS IS A NERD! AHAH!</i><br/>
          <em>so am i, though._.</em>
@@ -33,19 +33,22 @@
          <h4>::UD3::</h4>
          <p align="center">
              i took a little html course from SoloLearn and im still studying over it so i can hammer this damned html into my thick ass skull. wish me luck!<br/>Also, i started the course on HTML5 and jesus christ...its painful in my opinion, though alot of the new features are nice. i just have a hude issue with rememberign shit, so yay me. agh fuck...
+         <h4>::UD4</h4>
+         <P> ive had to take some time coding off due to personal issues and helping out my family. its been a hell of a ride but im getting as much shit done as i can. ill update the my html as soon as i can :D</P>
          </p>
          <hr width="100%">
          <table border="7">
              <tr>
-                 <td bgcolor="#FC7405 ">FIERY</td>
-                 <td bgcolor="red">FIST</td>
-                 <td bgcolor="red">O'</td>
-                 <td bgcolor="red">PAIN!</td>
+                 <td bgcolor="#FC7405"><font color="#FF0000"><b>FIERY</b></font></td>
+                 <td bgcolor="red"><font color="#FFFFFF">FIST</font></td>
+                 <td bgcolor="red"><font color="#FFFFFF">O'</font></td>
+                 <td bgcolor="red"><font color="#FFFFFF">PAIN!</font></td>
              </tr>
              <tr>
-                 <td bgcolor="red">FOR</td>
-                 <td bgcolor="purple">XIRUUS ☺</td>
-                 <td colspan="2"bgcolor="red">she knows<br/>she loves it♥</td>
+                 <td bgcolor="red"><font color="#FFFFFF">FOR</font></td>
+                 <td bgcolor="purple"><b><i>XIRUUS ☺</i></b></td>
+                 <td colspan="2"bgcolor="red"><font color="#FFFFFF">she knows</font><br/>
+                 <font color="#FFFFFF">she loves it♥</font></td>
             </tr>
          </table>
          <img src="https://i.ytimg.com/vi/k4suvIdojME/sddefault.jpg"width="250px"height="250px"<br/>
@@ -95,6 +98,10 @@
                  </td>
              </tr>
          </table>
+         <p>
+             and here are some <input type="radio" name="gender" value="RANDOM" />RANDOM and<br/>
+             stupidly odd fun <input type="radio" name="gender" value="BUTTONS" />BUTTONS<br/> 
+         </p>
          <p align="right">
              <a href="/">hesperi for the win!</a>
          </p>
