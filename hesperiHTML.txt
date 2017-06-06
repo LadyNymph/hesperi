@@ -35,6 +35,8 @@
              i took a little html course from SoloLearn and im still studying over it so i can hammer this damned html into my thick ass skull. wish me luck!<br/>Also, i started the course on HTML5 and jesus christ...its painful in my opinion, though alot of the new features are nice. i just have a hude issue with rememberign shit, so yay me. agh fuck...
          <h4>::UD4</h4>
          <P> ive had to take some time coding off due to personal issues and helping out my family. its been a hell of a ride but im getting as much shit done as i can. ill update the my html as soon as i can :D</P>
+         <h4>::UD5::</h4>
+         ihavent updated my html in a while because ive been going through a lot of person issues in the past few months ago. ill get back to it as soon as possible! have faith, my dudes.
          </p>
          <hr width="100%">
          <table border="7">
